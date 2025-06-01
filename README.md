@@ -16,7 +16,7 @@ I'm a passionate undergraduate researcher and aspiring chemical engineer with a 
 ## 🧪 Current Projects
 
 - **Chitosan Nanoparticles via Ionotropic Gelation**  
-  _Synthesis and potential biomedical applications for drug delivery systems._
+  _Synthesis of nanoparticle for potential biomedical applications for drug delivery systems._
 
 - **Linde Ammonia Concept Design**  
   _Process optimization and design under industrial conditions._
@@ -46,8 +46,8 @@ I'm a passionate undergraduate researcher and aspiring chemical engineer with a 
 - Chemical Process Calculations
 - Heat & Mass Transfer
 - Thermodynamics
-- Computational Techniques
-- Process Control & Dynamics
+- Computational Techniques for chemical engineering
+- Process Dynamics and control
 - Chemical Reaction Engineering
 
 ---
@@ -67,11 +67,10 @@ I'm a passionate undergraduate researcher and aspiring chemical engineer with a 
 ---
 
 ## 🔍 Interests
-
-- Nanoparticle Engineering  
+  
 - Targeted Drug Delivery  
-- Web App Development  
-- Sustainability in Engineering
+- Web Development  
+  
 
 ---
 
